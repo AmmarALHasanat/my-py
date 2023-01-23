@@ -806,3 +806,5 @@ print(next(myiter))
 print(next(myiter))
 print(next(myiter))
 print(next(myiter))
+
+# print('{0:.2}'.format(1.0/3))
